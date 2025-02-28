@@ -8,7 +8,9 @@ Each recipe should have:
 -A link back to the main page
 
 The skills demonstrated in this project are:
--Understanding of <h1> <p> <ul> <ol> <li> <img> w/ attrib href & alt <a> elements with relative links.
+-Base HTML boilerplate
+-Understanding of basic file structure and sorting
+-Understanding of header, paragraph, ordered and unordered lists, images w/ attrib src & alt atributes, anchor with relative links (href atributes).
 -Creating a github repository
 -Using git to add commit and push
 -Practice for commit messages and working to align with conventional commit style guide
