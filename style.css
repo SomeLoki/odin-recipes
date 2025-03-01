@@ -1,0 +1,24 @@
+body{
+  background-color: lightgoldenrodyellow;
+  text-align: center;
+  line-height: 1.25;
+  font-size: 16px;
+  font-weight: 500;
+}
+a {
+  line-height: 2.0;
+  font-weight: 1000;
+}
+
+h1,
+h2 {
+    text-decoration: underline;
+    font-weight: 1000;
+    line-height: 0.5;
+}
+
+ul,
+ol {
+  display: inline-block;
+  text-align: left;
+}
